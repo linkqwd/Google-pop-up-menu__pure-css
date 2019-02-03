@@ -219,10 +219,6 @@ img {
   background: url(../img/v1_051523630.png) -4px 439px;
 }
 
-.b-apps__item-link_icon_docs:before {
-  background: url(../img/v1_051523630.png) -4px 2105px;
-}
-
 .b-apps__item-link_icon_keep:before {
   background: url(../img/v1_051523630.png) -4px 2591px;
 }
@@ -367,7 +363,6 @@ img {
 
 .b-toggle {
   text-align: left;
-  display: block;
 }
 
 .b-toggle__input-drop-down {
